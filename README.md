@@ -6,7 +6,9 @@ Small, sub, and sup are the elements that can help you get the details right whe
 The are 4 elements in HTLM that allow twxt to mark as bold or italiced which are "<em>", "<strong>", "<b>", "<i>"
 
 # LIST:
-Unodered list "<ul>", odered list "<ol>" and definition list "<dl>"
+Unodered list "<ul>"
+odered list "<ol>"
+definition list "<dl>"
 
 # HTML Quote:
 <cite> 
@@ -22,8 +24,23 @@ code element
 sub-lower down 
 sup- normal
 
-# ✔Troubleshooting and Debugging HTML Code
+# Troubleshooting and Debugging HTML Code
 check HTML syntax
-important HTML Global Attributes: "class," "id," "lang," and "dir."
-ARIA ROLES: are extra atrributes that we can add to HTML elements in oder for them to make sense
 
+# Whats the difference between attributes and elements?
+attributes:
+elements:
+
+# important HTML Global Attributes: 
+"class" 
+"id"
+"lang"
+and "dir."
+
+ARIA ROLES: are extra atrributes that we can add to HTML elements in oder for them to make sense
+-It also enhance web accebility 
+
+# Formatting HTML
+-in HTML comments are instertrd by typing "<!--" at the start and "-->" at the end
+
+# Unusual Characters(ngomso zoqala apha for inotes)
