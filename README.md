@@ -68,8 +68,10 @@ pixel:
 figcaption: to add a caption in the picture use figcaption
 -the most effective way to use bandwidth efficiently when sending images is to Create a set of options the browser can choose from using the srcset attribute.
 
-
-
+# 6. Working with media
+-oudio  element  is different because it has both  opening and  a closing tag.
+-that leads to more power and flexibility
+- # (zoqala apha ngomso)
 
 
 
