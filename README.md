@@ -40,7 +40,51 @@ and "dir."
 ARIA ROLES: are extra atrributes that we can add to HTML elements in oder for them to make sense
 -It also enhance web accebility 
 
+# HTML Navigating and Linking
+-The term href stands for Hypertext Reference
+-The linking of video or an image  to another website or page, you include the whole URL . These types of URLs are called "ÄBSOLUTE URL"
+-HTTPS must be included, HTTP stands for HyperText Transport Protocol
+-This transport rules the communication on the web and is crucial for linking
+
+# URL Pathways
+-The slashes in the URL indicates that ther's more information, look deeper into the file 
+-
+# To make a basic link in HTML
+<a href="https://example.com">text to click</a>
+
 # Formatting HTML
 -in HTML comments are instertrd by typing "<!--" at the start and "-->" at the end
 
-# Unusual Characters(ngomso zoqala apha for inotes)
+# 5. Working with graphic and images  
+-It does not matter whether the height or the width is specified first. In HTML, the order of attributes within an element can be whatever you prefer.
+# 4 main file format commonly used on the web
+-GIF
+-SVG: is a programming language that for grapics. Are perfect for logos, icons. Can be compressed and still not lose quality. If you want to create a compact image that can display in large sizes without pixelation
+-JPG:
+-PNG: works perfect when you want transparency
+
+#
+pixel: 
+figcaption: to add a caption in the picture use figcaption
+-the most effective way to use bandwidth efficiently when sending images is to Create a set of options the browser can choose from using the srcset attribute.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
