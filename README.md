@@ -68,10 +68,43 @@ pixel:
 figcaption: to add a caption in the picture use figcaption
 -the most effective way to use bandwidth efficiently when sending images is to Create a set of options the browser can choose from using the srcset attribute.
 
-# 6. Working with media
+# 6. Working with media, Video, Captions and Subtitles, Embedding Media via Iframes
 -oudio  element  is different because it has both  opening and  a closing tag.
--that leads to more power and flexibility
-- # (zoqala apha ngomso)
+-that leads to more power and flexibility.
+- because the source element can be used to specify multiple audio files, similar to how the picture element was used.
+- <audio controls="audio.mp3"</audio>
+# Videos
+- It  also has opening and closing tag.
+- To create a video element that specifies different resolutions of video that browsers can choose from when loading the video,you can't do this. Instead, the browser adapts to circumstances as needed.
+# Captions and Subtitles
+- To display captions on the video ,insert a track element within the video element
+ # Embedding Media via Iframes
+- Embedding refers to taking content from one site and placing it within the middle of another site's page. 
+
+# 7.Content identification
+- Language attribute is used to specify the language of the web
+- To change the background colour on paragraphs you have to introduce a div element with a class called "boxes"
+# What is the difference between the usage of the following?
+-By <div> is used for blocks, and <span> is used for a part of a line.
+# Why do you need to specify the desired language for HTML content?
+-So that the correct dictionaries and pronunciations are used
+# What are the best uses for the following HTML elements?
+-To group elements, or mark text within an element.
+
+# 8. Integration
+# Page:
+-The doctype declaration, HTML head, and body elements are the essential building blocks of every web page.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
