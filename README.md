@@ -108,13 +108,14 @@ figcaption: to add a caption in the picture use figcaption
 # Which section of an HTML page should contain metadata?
 - The head
 
+# 9.WORKING WITH FORMS AND INTERACTIVE ELEMENTS
+#  Form Fundamels
+-It is important to use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser.
 
-
-
-
-
-
-
+# 10. Organizing Tabular Information in HTML
+-The TR element stands for table row and wraps around a set of elements, defining them as -
+-The TH element stands for table header and defines a header for a column.
+-The TD element stands for table data and marks up the cells of data. 
 
 
 
