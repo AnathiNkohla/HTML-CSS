@@ -95,14 +95,18 @@ figcaption: to add a caption in the picture use figcaption
 # Page:
 -The doctype declaration, HTML head, and body elements are the essential building blocks of every web page.
 
+# WEBSITE/WEBPAGE STRUCTURE
+1.MAIN: is used once per webpage and tells the main content is located
+2.HEADER: is usually found at the top of most web pages and may include a logo, site name, and navigation.
+3.FOOTER: The footer signifies that there are extra things to convey, regardless of its position on the page 
+4.ARTICLE: Can be considered as a hearder
+5.SECTION: useful for dividing different topic zones on a website.
+6.ASIDE: is for content that is off to the side, like sidebar information or additional details that accompany an article but are not part of its main flow 
+# What is the difference between a head element and a header element?
+- The head element contains document metadata, and a header element contains text to be displayed.
 
-
-
-
-
-
-
-
+# Which section of an HTML page should contain metadata?
+- The head
 
 
 
