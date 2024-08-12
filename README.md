@@ -117,6 +117,15 @@ figcaption: to add a caption in the picture use figcaption
 -The TH element stands for table header and defines a header for a column.
 -The TD element stands for table data and marks up the cells of data. 
 
+# Why are tables the preferred option for creating layouts in HTML email?
+- Because the other better options are not supported.
+
+ # Where can you find the authoritative standard for HTML?
+-The Living Standard
+
+
+
+
 
 
 
